@@ -46,7 +46,7 @@
     <string name="StickerSizeDialogMessageReplyTo">Miyav</string>
     <string name="Experiment">Deneysel</string>
     <string name="UnlimitedFavoredStickers">Sınırsız favori çıkartmaları</string>
-    <string name="UnlimitedFavoredStickersAbout">Favorilere sınırsız çıkartmalar ekleyin. Çıkartmalar diğer cihazlarla senkronize edilemeyebilir.</string>
+    <string name="UnlimitedFavoredStickersAbout">Favorilere sınırsız çıkartma ekleyin. Çıkartmalar diğer cihazlarla senkronize edilemeyebilir.</string>
     <string name="MessageDetails">Detaylar</string>
     <string name="DeleteAccount">Telegram hesabını sil</string>
     <string name="TranslateFailed">Çeviri sunucu hatası</string>
@@ -128,7 +128,7 @@
     <string name="SwipeToPiP">PiP\'yi açmak için videoyu yukarı kaydırın</string>
     <string name="StickerSavedHint">Çıkartma galeriye kaydedildi</string>
     <string name="RegistrationDate">Kayıt tarihi</string>
-    <string name="WsDescription">Cloudflare aracılığıyla WebSocket aracılığıyla Telegram\'a bağlanın, <![CDATA[<a href=\"https://telegra.ph/wsneko-04-10\">teknik ayrıntılar</a>]]>.</string>
+    <string name="WsDescription">Cloudflare tarafından sunulan WebSocket aracılığıyla Telegram\'a bağlanın, <![CDATA[<a href=\"https://telegra.ph/wsneko-04-10\">teknik ayrıntılar</a>]]>.</string>
     <string name="WsEnableTls">TLS\'yi etkinleştir</string>
     <string name="WsLocalProxy">Yerel proxy</string>
     <string name="WsEnableDoh">DoH\'u etkinleştir</string>
